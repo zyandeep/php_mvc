@@ -1,0 +1,14 @@
+{
+    "name": "zyandeep/php-mongo",
+    "description": "Connecting PHP to MongoDB",
+    "type": "project",
+    "authors": [
+        {
+            "name": "zyandeep",
+            "email": "zyandeep000@gmail.com"
+        }
+    ],
+    "require": {
+        "mongodb/mongodb": "^1.6"
+    }
+}
